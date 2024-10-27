@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 void print(int i ,int n){
-    //code to print name n times using reccursion
+    //code to print number you want in reverse using reccursion
     if (i<1){
     return; 
     // base condition
