@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 void print(int i ,int n){
-    //code to print name n times using reccursion
+    //code to print i ton times using reccursion
     if (i>n){
     return; 
     // base condition
